@@ -2,7 +2,7 @@
 
 ### Installation
 
-Copy this folder to `<config_dir>/custom_components/elsner/`.
+Copy this elsner folder to `<config_dir>/custom_components/elsner/`.
 
 Add the following to your `configuration.yaml` file:
 
@@ -57,4 +57,4 @@ template:
             0
           {% endif -%}
 ```
-[sensor.py](sensor.py)
+[sensor.py](custom_components/elsner/sensor.py)
